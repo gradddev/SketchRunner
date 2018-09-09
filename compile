@@ -1,4 +1,4 @@
 #!/bin/bash
 
-osacompile -o SketchRunner.app SketchRunner.applescript
-cp /Applications/Sketch.app/Contents/Resources/app.icns SketchRunner.app/Contents/Resources/applet.icns
+osacompile -o Sketch\ Runner.app Sketch\ Runner.applescript
+cp /Applications/Sketch.app/Contents/Resources/app.icns Sketch\ Runner.app/Contents/Resources/applet.icns
