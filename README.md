@@ -1,5 +1,5 @@
-To compile the AppleScript into an application use this command:
+To compile the AppleScript into an application use the `compile` script:
 
 ```bash
-osacompile -o SketchRunner.app SketchRunner.applescript
+./compile
 ````
