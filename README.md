@@ -1,4 +1,4 @@
-The Sketch Runner is a macOS application that launches the Sketch when its trial expired.
+The Sketch Runner is a macOS application that can launch the Sketch when its trial expired.
 
 Download the latest release of the Sketch Runner application from [here](https://github.com/AlexeySemigradsky/SketchRunner/releases) and move it to the Applications folder.
 
