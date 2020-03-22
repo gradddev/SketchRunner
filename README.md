@@ -1,3 +1,5 @@
+> **Important note!** The SketchRunner currently only works with the Sketch version 52.6 or below.
+
 The Sketch Runner is a macOS application that can launch the Sketch when its trial expired.
 
 Download the latest release of the Sketch Runner application from [here](https://github.com/AlexeySemigradsky/SketchRunner/releases) and move it to the Applications folder.
